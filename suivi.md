@@ -4,9 +4,9 @@ Note ton avancée après chaque TP. Reste factuel, sans données personnelles. C
 
 ## TP00 — Diagnostic
 
-- Hypothèse :
-- Action :
-- Résultat :
+- Hypothèse : La page avait un contenu fonctionnel visuellement mais des défauts d'accessibilité, de responsive & logique absent
+- Action : Restructuration de la page selon les régles sménatique, correction du problème css cascade et compléter la logique js.
+- Résultat : page fonctionnel et respecte les régles d'accessibilité.
 - Point non compris :
 
 ## TP01 — Démarrer
