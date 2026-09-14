@@ -11,10 +11,10 @@ Note ton avancée après chaque TP. Reste factuel, sans données personnelles. C
 
 ## TP01 — Démarrer
 
-- Hypothèse :
-- Action :
-- Résultat :
-- Point non compris :
+- Hypothèse : configuration & versionning de travail.
+- Action : dépot initialiser et versionning de travail dés l'étape 0, donc je n'ai pas respecte la convention de nommage recommander pour les branch mes branch seront nommé digncostic, start, form, responsive & bilan.
+- Résultat : versionning déja en place, node v22.16.0 cap web tourne correctement 09 test passed.
+- Point non compris : conseigne 1 me semble le plus pertinant est de le faire dés l'étape 0
 
 ## TP02 — HTML
 
