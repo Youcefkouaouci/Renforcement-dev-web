@@ -32,10 +32,10 @@ Note ton avancée après chaque TP. Reste factuel, sans données personnelles. C
 
 ## TP04 — Responsive
 
-- Hypothèse :
-- Action :
-- Résultat :
-- Point non compris, test 360 / 1280 :
+- Hypothèse : un mot de 60 lettres sans règle css déborde & provoque un défilement horizontal sur la page.
+- Action : box-sizing width & width max body conteneur en flex
+- Résultat : page lisible
+- Point non compris :
 
 ## Commandes essayées
 
