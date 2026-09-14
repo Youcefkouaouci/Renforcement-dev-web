@@ -25,9 +25,9 @@ Note ton avancée après chaque TP. Reste factuel, sans données personnelles. C
 
 ## TP03 — Formulaire
 
-- Hypothèse :
-- Action :
-- Résultat :
+- Hypothèse : sauter la ligne
+- Action : textarea champ
+- Résultat : textarea quand click entre sauter la ligne.
 - Point non compris :
 
 ## TP04 — Responsive
