@@ -18,10 +18,10 @@ Note ton avancée après chaque TP. Reste factuel, sans données personnelles. C
 
 ## TP02 — HTML
 
-- Hypothèse :
-- Action :
-- Résultat :
-- Point non compris :
+- Hypothèse : le rendu reste fonctionnels, le navigateur peut l'interpreter quand même mais mauvaise structure et accessibilités
+- Action : garder main dic est génerique
+- Résultat : /
+- Point non compris :/
 
 ## TP03 — Formulaire
 
